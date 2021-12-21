@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋</h1>
 
-- 🔭 I’m currently attending a coding bootcamp to start my journey as frontend developer.
+- 🔭 I’m currently attending a coding bootcamp on React JS.
 - 🌱 I’m currently learning React and Sass.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rebecca-mollica-635490223/)
 
