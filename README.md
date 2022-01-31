@@ -1,8 +1,7 @@
 <h1 align="center"> Hi there 👋</h1>
-
-- 🔭 I’m currently attending a coding bootcamp on React JS.
-- 🌱 I’m currently learning React and Sass.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rebecca-mollica-635490223/)
+<p align="center">Welcome to my GitHub profile! <br />
+I'm a junior frontend developer who loves understanding how things work while experimenting on new projects.<br />
+You'll find plenty of them here, enjoy your stay!</p>
 
 <h2 align="center">Languages, tools and skills:</h2>
 <p align="center">
@@ -22,7 +21,11 @@
   <img alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> <br />
   <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</p>
 
+<h2 align="center">Connect with me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rebecca-mollica-635490223/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <br />
 
@@ -31,6 +34,9 @@
 
 <!--
 **rebecca-xm/rebecca-xm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rebecca-mollica-635490223/)
 
 Here are some ideas to get you started:
 
