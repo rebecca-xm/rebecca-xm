@@ -1,5 +1,5 @@
 <h1 align="center"> Welcome to my GitHub! 👋</h1>
-<p align="center">I'm a junior frontend developer who loves understanding how things work while experimenting on new projects.<br />
+<p align="center">I'm a frontend developer who loves understanding how things work while experimenting on new projects.<br />
 You'll find plenty of them here, enjoy your stay!</p>
 
 <h2 align="center">Languages, tools and skills:</h2>
