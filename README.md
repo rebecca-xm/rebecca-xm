@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my GitHub! 👋</h1>
 <p>I'm a self-motivated, passionate, and curious frontend developer who loves understanding how things work while experimenting on projects that I use to test new technologies. You'll find plenty of them here (both finished and WIP)!<br />
-I'm currently dipping into backend by learning NodeJS and ExpressJS, but I also aim to expand my frontend knowledge with Vue framework. <br />
+I'm currently learning NodeJS and ExpressJS, but I aim to expand my frontend knowledge with Vue framework. <br />
 Enjoy your stay and thanks for stopping by!</p>
 
 <h2>Languages, tools and skills:</h2>
@@ -23,7 +23,7 @@ Enjoy your stay and thanks for stopping by!</p>
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-<h2>Connect with me</h2>
+<h2>Connect with me:</h2>
 <p>
   <a href="https://www.linkedin.com/in/rebecca-mollica-635490223/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
