@@ -1,9 +1,10 @@
 <h1 align="center"> Welcome to my GitHub! 👋</h1>
-<p align="center">I'm a frontend developer who loves understanding how things work while experimenting on new projects.<br />
-You'll find plenty of them here, enjoy your stay!</p>
+<p>I'm a self-motivated, passionate, and curious frontend developer who loves understanding how things work while experimenting on projects that I use to test new technologies. You'll find plenty of them here (both finished and WIP)!<br />
+I'm currently learning NodeJS and ExpressJS. The goal I set for myself is to become a MERN stack developer. <br />
+Enjoy your stay and thanks for stopping by!</p>
 
-<h2 align="center">Languages, tools and skills:</h2>
-<p align="center">
+<h2>Languages, tools and skills:</h2>
+<p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />  
@@ -22,13 +23,15 @@ You'll find plenty of them here, enjoy your stay!</p>
   <img alt="windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 </p>
 
-<h2 align="center">Connect with me</h2>
-<p align="center">
+<h2>Connect with me</h2>
+<p>
   <a href="https://www.linkedin.com/in/rebecca-mollica-635490223/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rebecca-xm&layout=compact)](https://github.com/rebecca-xm/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecca-xm&theme=github_dark&layout=compact&langs_count=5">
+<img src="https://github-readme-stats.vercel.app/api?username=rebecca-xm&theme=github_dark&show_icons=true&count_private=true">
+
 
 
 <!--
