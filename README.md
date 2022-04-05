@@ -1,6 +1,6 @@
 <h1 align="center"> Welcome to my GitHub! 👋</h1>
 <p>I'm a self-motivated, passionate, and curious frontend developer who loves understanding how things work while experimenting on projects that I use to test new technologies. You'll find plenty of them here (both finished and WIP)!<br />
-I'm currently learning NodeJS and ExpressJS. The goal I set for myself is to become a MERN stack developer. <br />
+I'm currently dipping into backend by learning NodeJS and ExpressJS, but I also aim to expand my frontend knowledge with Vue framework. <br />
 Enjoy your stay and thanks for stopping by!</p>
 
 <h2>Languages, tools and skills:</h2>
