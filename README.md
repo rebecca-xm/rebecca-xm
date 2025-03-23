@@ -1,7 +1,8 @@
 <h1 align="center"> Welcome to my GitHub! 👋</h1>
-<p>I'm a self-motivated, passionate, and curious frontend developer who loves experimenting on projects that I use to learn and test new technologies.<br />
-I'm currently expanding my knowledge with Angular and Ionic frameworks. <br />
-Enjoy your stay and thanks for stopping by!</p>
+<p>Hi there! I'm a software developer currently exploring the world of backend development with <b>.NET</b>, <b>C#</b>, and <b>SQL Server</b>. While I started my journey in frontend development, I’ve recently shifted my focus to backend technologies, where I’m learning to build and optimize systems step by step.</p>
+<p>Alongside backend development, I'm also diving into <b>mobile app development</b> using <b>Ionic</b> and <b>Capacitor</b>. Building cross-platform apps has been an exciting challenge, allowing me to bridge my frontend background with my in-progress backend skills. I'm learning how to integrate APIs, manage push notifications, and create smooth mobile experiences.</p>
+<p>I’m still early in my career, but I’m passionate about growing my skills and tackling new challenges. Whether it’s writing clean code, designing databases, or figuring out how to make things work better, I’m always eager to learn and improve.</p>
+<p>Feel free to take a look around at my projects—they’re a mix of experiments, learning exercises, and small steps toward bigger goals. If you have any advice, or feedback, or just want to chat about tech, I’d love to hear from you! Thanks for stopping by, and I hope you enjoy your visit!</p>
 
 <h2>Languages, tools and skills:</h2>
 <p>
